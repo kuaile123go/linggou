@@ -19,7 +19,7 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>http://wap.10086.com/8107/wucall.png</string>
+                   <string>http://114.112.188.11:8088/chs/wucall.png</string>
                </dict>
            </array>
            <key>metadata</key>
