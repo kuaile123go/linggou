@@ -33,7 +33,7 @@
         <key>metadata</key>
         <dict>
           <key>bundle-identifier</key>
-          <string>cn.com.crc.crcpoc</string>
+          <string>com.ags.dx</string>
           <key>bundle-version</key>
           <string>13.09.22.26</string>
           <key>kind</key>
