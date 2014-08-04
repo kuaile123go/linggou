@@ -21,8 +21,7 @@
             <key>url</key>
             <string>http://www.ixincall.com/ipa_image.png</string>
           </dict>
-          <dict>
-            <key>kind</key>
+          <dict><key>kind</key>
             <string>full-size-image</string>
             <key>needs-shine</key>
             <true/>
