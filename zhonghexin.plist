@@ -19,7 +19,7 @@
             <key>needs-shine</key>
             <true/>
             <key>url</key>
-            <string>http://www.ixincall.com/ipa_image.png</string>
+            <string>http://www.hualaoo.com/ico_114.png</string>
           </dict>
           <dict>
             <key>kind</key>
@@ -27,15 +27,15 @@
             <key>needs-shine</key>
             <true/>
             <key>url</key>
-            <string>http://www.ixincall.com/ipa_image.png</string>
+            <string>http://www.hualaoo.com/ico_114.png</string>
           </dict>
         </array>
         <key>metadata</key>
         <dict>
           <key>bundle-identifier</key>
-          <string>com.hongda.callback</string>
+          <string>com.leehuu.zhonghexin</string>
           <key>bundle-version</key>
-          <string>13.09.22.26</string>
+          <string>1.0.4</string>
           <key>kind</key>
           <string>software</string>
           <key>subtitle</key>
