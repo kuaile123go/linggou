@@ -19,7 +19,7 @@
             <key>needs-shine</key>
             <true/>
             <key>url</key>
-            <string>http://www.hualaoo.com/ico_114.png</string>
+            <string>http://115.28.195.101:8095/ico_114.png</string>
           </dict>
           <dict>
             <key>kind</key>
@@ -27,7 +27,7 @@
             <key>needs-shine</key>
             <true/>
             <key>url</key>
-            <string>http://www.hualaoo.com/ico_114.png</string>
+            <string>http://115.28.195.101:8095/ico_114.png</string>
           </dict>
         </array>
         <key>metadata</key>
