@@ -11,7 +11,7 @@
             <key>kind</key>
             <string>software-package</string>
             <key>url</key>
-            <string>http://callapi.thebluewisdom.com/media/leehuu.ipa</string>
+            <string>http://115.28.195.101:8095/leehuu.ipa</string>
           </dict>
           <dict>
             <key>kind</key>
